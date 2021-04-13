@@ -5,4 +5,5 @@ Usefull ubuntu commands
 </h2>
   
 `xdg-open .` - command opens file explorer to current PATH from terminal <br>
-`xdg-open file` - command opend file from terminal
+`xdg-open file` - command opend file from terminal<br>
+`pwd` - print to terminal current PATH
