@@ -6,4 +6,5 @@ Usefull ubuntu commands
   
 `xdg-open .` - command opens file explorer to current PATH from terminal <br>
 `xdg-open file` - command opend file from terminal<br>
-`pwd` - print to terminal current PATH
+`pwd` - print to terminal current PATH<br>
+`shutdown -h now` - shutdown linux pc<br>
