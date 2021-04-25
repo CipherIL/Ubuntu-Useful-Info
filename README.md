@@ -17,3 +17,4 @@ Usefull ubuntu commands
 `Ctrl + u` - "Kill Backwards" - Cut everything before cursor<br>
 `ctrl + w` - "Kill Word Backwards" - Cut word before cursor<br>
 `Ctrl + y` - "Yank" - Paste back what was cut<br>
+`Alt + .` - Paste the argument for the last command that was used<br>
