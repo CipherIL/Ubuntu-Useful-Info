@@ -22,8 +22,8 @@ Usefull ubuntu commands
 `Ctrl + D` - Close connection to host shell / Close current terminal<br>
 `Ctrl + A` - Move cursor to start of line<br>
 `Ctrl + E` - Move cursor to end of line<br>
-`Ctrl + R` - Reverse history check "mode"<br>
-`Ctrl + G` - Return to shell <i>"mode"</i><br>
+`Ctrl + R` - Reverse history check <i>"mode"</i><br>
+`Ctrl + G` - Return to shell <i>"mode"</i> (preserve anything typed)<br>
 
 <h3>Alt Shortcuts</h3>
 
