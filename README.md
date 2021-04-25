@@ -7,24 +7,24 @@ Info for learning Ubuntu and Linux
 Command Open file explorer to current PATH from terminal
 ### <ins>xdg-open "file"</ins>
 open file from terminal
-### pwd
+### <ins>pwd</ins>
 Print to terminal current PATH
-### shutdown -h now
+### <ins>shutdown -h now</ins>
 Shutdown linux pc
-### sudo !!
+### <ins>sudo !!</ins>
 Execute last command with sudo privileges
-### history
+### <ins>history</ins>
 Show shell history
-### clear
+### <ins>clear</ins>
 Clear screen
-### uname
+### <ins>uname</ins>
 Show system information
   * -a - show everything
   * -r - show kernel version
 
 
 # Shell Shortcuts
-<h3>Ctrl Shortcuts</h3>
+### Ctrl Shortcuts
 
 `Ctrl + K` - "Kill Forward" - Cut everything after cursor<br>
 `Ctrl + U` - "Kill Backwards" - Cut everything before cursor<br>
@@ -37,8 +37,9 @@ Show system information
 `Ctrl + R` - Reverse history check <i>"mode"</i><br>
 `Ctrl + G` - Return to shell <i>"mode"</i> (preserve anything typed)<br>
 `Ctrl + L` - Clear screen<br>
+
 <hr>
-<h3>Alt Shortcuts</h3>
+### Alt Shortcuts
 
 `Alt + .` - Paste the argument for the last command that was used<br>
 `Alt + F` - Move cursor 1 word forward<br>
