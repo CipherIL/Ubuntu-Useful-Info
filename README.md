@@ -4,7 +4,7 @@ Info for learning Ubuntu and Linux
 Usefull ubuntu commands
 </h2>
   
-<h4>xdg-open .</h4>Command Open file explorer to current PATH from terminal
+<h3>xdg-open .</h3>Command Open file explorer to current PATH from terminal
 <h4>xdg-open "file"</h4>open file from terminal
 <h4>pwd</h4>Print to terminal current PATH
 <h4>shutdown -h now</h4>Shutdown linux pc
