@@ -4,7 +4,7 @@ Info for learning Ubuntu and Linux
 Usefull ubuntu commands
 </h2>
   
-`xdg-open .` - command opens file explorer to current PATH from terminal <br>
+`xdg-open .` - command opens file explorer to current PATH from terminal<br>
 `xdg-open file` - command opend file from terminal<br>
 `pwd` - print to terminal current PATH<br>
 `shutdown -h now` - shutdown linux pc<br>
@@ -12,8 +12,8 @@ Usefull ubuntu commands
 
 <h2>Shell Shortcuts</h2>
 
-`sudo !!` - Execute last command with sudo privileges
-`Ctrl + k` - "Kill Forward" - Cut everything after cursor
-`Ctrl + u` - "Kill Backwards" - Cut everything before cursor
-`ctrl + w` - "Kill Word Backwards" - Cut word before cursor
-`Ctrl + y` - "Yank" - Paste back what was cut 
+`sudo !!` - Execute last command with sudo privileges<br>
+`Ctrl + k` - "Kill Forward" - Cut everything after cursor<br>
+`Ctrl + u` - "Kill Backwards" - Cut everything before cursor<br>
+`ctrl + w` - "Kill Word Backwards" - Cut word before cursor<br>
+`Ctrl + y` - "Yank" - Paste back what was cut<br>
