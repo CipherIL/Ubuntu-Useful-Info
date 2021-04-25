@@ -2,7 +2,8 @@
 Info for learning Ubuntu and Linux:
 * [Usefull Ubuntu Commands](#usefull-ubuntu-commands)
 * [Shell Shortcuts](#shell-shortcuts)
- * [Ctrl Shortcuts](#ctrl-shortcuts)
+    * [Ctrl Shortcuts](#ctrl-shortcuts)
+    * [Alt Shortcuts](#alt-shortcuts)
 
 # Usefull ubuntu commands
 
