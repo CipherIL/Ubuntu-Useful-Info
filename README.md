@@ -1,5 +1,6 @@
 # Ubuntu-Useful-Info
 Info for learning Ubuntu and Linux
+<hr>
 <h2>
 Usefull ubuntu commands
 </h2>
