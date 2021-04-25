@@ -39,6 +39,7 @@ Show system information
 `Ctrl + L` - Clear screen<br>
 
 <hr>
+
 ### Alt Shortcuts
 
 `Alt + .` - Paste the argument for the last command that was used<br>
