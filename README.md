@@ -3,7 +3,7 @@ Info for learning Ubuntu and Linux
 
 # Usefull ubuntu commands
 
-<h3>xdg-open .</h3>Command Open file explorer to current PATH from terminal
+<h3><u>xdg-open .</u></h3>Command Open file explorer to current PATH from terminal
 <h3>xdg-open "file"</h3>open file from terminal
 <h3>pwd</h3>Print to terminal current PATH
 <h3>shutdown -h now</h3>Shutdown linux pc
@@ -16,8 +16,8 @@ Info for learning Ubuntu and Linux
   <li> -r - show kernel version</li>
 </ul> 
 
-<h2>Shell Shortcuts</h2>
-<h3>Ctrl Shortcuts</h3>
+# Shell Shortcuts
+<h2>Ctrl Shortcuts</h2>
 
 `Ctrl + K` - "Kill Forward" - Cut everything after cursor<br>
 `Ctrl + U` - "Kill Backwards" - Cut everything before cursor<br>
@@ -31,7 +31,7 @@ Info for learning Ubuntu and Linux
 `Ctrl + G` - Return to shell <i>"mode"</i> (preserve anything typed)<br>
 `Ctrl + L` - Clear screen<br>
 <hr>
-<h3>Alt Shortcuts</h3>
+<h2>Alt Shortcuts</h2>
 
 `Alt + .` - Paste the argument for the last command that was used<br>
 `Alt + F` - Move cursor 1 word forward<br>
