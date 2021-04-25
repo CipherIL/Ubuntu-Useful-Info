@@ -6,15 +6,15 @@ Usefull ubuntu commands
   
 <h4>xdg-open .</h4>Command Open file explorer to current PATH from terminal
 <h4>xdg-open "file"</h4>open file from terminal
-<h4>pwd</h4> - Print to terminal current PATH
-<h4>shutdown -h now</h4> - Shutdown linux pc
-<h4>sudo !!</h4> - Execute last command with sudo privileges
-<h4>history</h4> - Show shell history
-<h4>clear</h4> - Clear screen
-<h4>uname</h4>- Show system information
+<h4>pwd</h4>Print to terminal current PATH
+<h4>shutdown -h now</h4>Shutdown linux pc
+<h4>sudo !!</h4>Execute last command with sudo privileges
+<h4>history</h4>Show shell history
+<h4>clear</h4>Clear screen
+<h4>uname</h4>Show system information
 <ul>
-  <li> `-a` - show everything</li>
-  <li> `-r` - show kernel version</li>
+  <li> -a - show everything</li>
+  <li> -r - show kernel version</li>
 </ul> 
 
 <h2>Shell Shortcuts</h2>
