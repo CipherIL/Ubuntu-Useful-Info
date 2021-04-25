@@ -4,12 +4,12 @@ Info for learning Ubuntu and Linux
 Usefull ubuntu commands
 </h2>
   
-`xdg-open .` - command opens file explorer to current PATH from terminal<br>
-`xdg-open file` - command opend file from terminal<br>
-`pwd` - print to terminal current PATH<br>
-`shutdown -h now` - shutdown linux pc<br>
+`xdg-open .` - Command opens file explorer to current PATH from terminal<br>
+`xdg-open file` - Command opend file from terminal<br>
+`pwd` - Print to terminal current PATH<br>
+`shutdown -h now` - Shutdown linux pc<br>
 `sudo !!` - Execute last command with sudo privileges<br>
-
+`history` - Show shell history<br>
 
 <h2>Shell Shortcuts</h2>
 <h3>Ctrl Shortcuts</h3>
@@ -22,6 +22,8 @@ Usefull ubuntu commands
 `Ctrl + D` - Close connection to host shell / Close current terminal<br>
 `Ctrl + A` - Move cursor to start of line<br>
 `Ctrl + E` - Move cursor to end of line<br>
+`Ctrl + R` - Reverse history check "mode"<br>
+`Ctrl + G` - Return to shell <i>"mode"</i><br>
 
 <h3>Alt Shortcuts</h3>
 
