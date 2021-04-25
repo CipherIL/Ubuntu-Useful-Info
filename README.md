@@ -13,6 +13,7 @@ Usefull ubuntu commands
 
 <h2>Shell Shortcuts</h2>
 <h3>Ctrl Shortcuts</h3>
+
 `Ctrl + K` - "Kill Forward" - Cut everything after cursor<br>
 `Ctrl + U` - "Kill Backwards" - Cut everything before cursor<br>
 `Ctrl + W` - "Kill Word Backwards" - Cut word before cursor<br>
@@ -23,6 +24,7 @@ Usefull ubuntu commands
 `Ctrl + E` - Move cursor to end of line<br>
 
 <h3>Alt Shortcuts</h3>
+
 `Alt + .` - Paste the argument for the last command that was used<br>
 `Alt + F` - Move cursor 1 word forward<br>
 `Alt + B` - Move cursor 1 word backwards<br>
