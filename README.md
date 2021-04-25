@@ -1,6 +1,5 @@
 # Ubuntu-Useful-Info
 Info for learning Ubuntu and Linux
-<hr style="color:blue">
 
 # Usefull ubuntu commands
 
@@ -31,7 +30,7 @@ Info for learning Ubuntu and Linux
 `Ctrl + R` - Reverse history check <i>"mode"</i><br>
 `Ctrl + G` - Return to shell <i>"mode"</i> (preserve anything typed)<br>
 `Ctrl + L` - Clear screen<br>
-
+<hr>
 <h3>Alt Shortcuts</h3>
 
 `Alt + .` - Paste the argument for the last command that was used<br>
