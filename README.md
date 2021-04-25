@@ -1,6 +1,8 @@
 # Ubuntu-Useful-Info
-Info for learning Ubuntu and Linux
-* [test](#usefull-ubuntu-commands)
+Info for learning Ubuntu and Linux:
+* [Usefull Ubuntu Commands](#usefull-ubuntu-commands)
+* [Shell Shortcuts](#shell-shortcuts)
+ * [Ctrl Shortcuts](#ctrl-shortcuts)
 
 # Usefull ubuntu commands
 
