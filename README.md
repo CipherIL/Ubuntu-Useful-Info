@@ -1,6 +1,6 @@
 # Ubuntu-Useful-Info
 Info for learning Ubuntu and Linux
-<hr>
+<hr style="width:50%">
 
 # Usefull ubuntu commands
 
