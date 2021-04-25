@@ -6,16 +6,21 @@ Info for learning Ubuntu and Linux
 <b><ins>xdg-open .</ins></b> Command Open file explorer to current PATH from terminal
 ### xdg-open "file"
 open file from terminal
-<h3>pwd</h3>Print to terminal current PATH
-<h3>shutdown -h now</h3>Shutdown linux pc
-<h3>sudo !!</h3>Execute last command with sudo privileges
-<h3>history</h3>Show shell history
-<h3>clear</h3>Clear screen
-<h3>uname</h3>Show system information
-<ul>
-  <li> -a - show everything</li>
-  <li> -r - show kernel version</li>
-</ul> 
+### pwd
+Print to terminal current PATH
+### shutdown -h now
+Shutdown linux pc
+### sudo !!
+Execute last command with sudo privileges
+### history
+Show shell history
+### clear
+Clear screen
+### uname
+Show system information
+  * -a - show everything
+  * -r - show kernel version
+
 
 # Shell Shortcuts
 <h3>Ctrl Shortcuts</h3>
