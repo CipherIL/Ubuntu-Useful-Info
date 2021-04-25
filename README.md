@@ -1,10 +1,9 @@
 # Ubuntu-Useful-Info
 Info for learning Ubuntu and Linux
 <hr>
-<h2>
-Usefull ubuntu commands
-</h2>
-  
+
+# Usefull ubuntu commands
+
 <h3>xdg-open .</h3>Command Open file explorer to current PATH from terminal
 <h3>xdg-open "file"</h3>open file from terminal
 <h3>pwd</h3>Print to terminal current PATH
