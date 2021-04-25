@@ -30,7 +30,11 @@ Show system information
 Show ip data
 ### <ins>df -ah</ins>
 show disk usage data
-
+### <ins>systemctl [tags] [service]</ins>
+Control a system service
+   * __status__ - show status of sevice
+   * __start__ - start the service
+   * __stop__ - stop the service
 
 # Shell Shortcuts
 ### Ctrl Shortcuts
