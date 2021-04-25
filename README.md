@@ -19,8 +19,8 @@ Show shell history
 Clear screen
 ### <ins>uname</ins>
 Show system information
-  * -a - show everything
-  * -r - show kernel version
+  * __-a__ - show everything
+  * __-r__ - show kernel version
 
 
 # Shell Shortcuts
