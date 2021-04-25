@@ -10,9 +10,6 @@ Usefull ubuntu commands
 `shutdown -h now` - shutdown linux pc<br>
 
 
-###################
-# Shell Shortcuts #
-###################
 <h2>Shell Shortcuts</h2>
 
 `sudo !!` - Execute last command with sudo privileges
