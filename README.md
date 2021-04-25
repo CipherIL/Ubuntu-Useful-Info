@@ -15,8 +15,10 @@ Usefull ubuntu commands
 `sudo !!` - Execute last command with sudo privileges<br>
 `Ctrl + k` - "Kill Forward" - Cut everything after cursor<br>
 `Ctrl + u` - "Kill Backwards" - Cut everything before cursor<br>
-`ctrl + w` - "Kill Word Backwards" - Cut word before cursor<br>
+`Ctrl + w` - "Kill Word Backwards" - Cut word before cursor<br>
 `Ctrl + y` - "Yank" - Paste back what was cut<br>
 `Alt + .` - Paste the argument for the last command that was used<br>
 `Ctrl + c` - Kill running command<br>
 `Ctrl + d` - Close connection to host shell / Close current terminal<br>
+`Ctrl + a` - Move cursor to start of line<br>
+`Ctrl + e` - Move cursor to end of line<br>
