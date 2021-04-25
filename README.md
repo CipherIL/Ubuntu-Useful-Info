@@ -26,7 +26,7 @@ Show system information
   * __-a__ - show everything
   * __-r__ - show kernel version
 
-### <ins>ifconfig </ins>
+### <ins>ifconfig</ins>
 Show ip data
 ### <ins>df -ah</ins>
 show disk usage data
@@ -35,6 +35,9 @@ Control a system service
    * __status__ - show status of sevice
    * __start__ - start the service
    * __stop__ - stop the service
+
+### <ins>du -sh [target]</ins>
+Show targets disk usage info
 
 # Shell Shortcuts
 ### Ctrl Shortcuts
