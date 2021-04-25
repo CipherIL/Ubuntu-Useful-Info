@@ -10,6 +10,7 @@ Usefull ubuntu commands
 `shutdown -h now` - Shutdown linux pc<br>
 `sudo !!` - Execute last command with sudo privileges<br>
 `history` - Show shell history<br>
+`clear` - Clear screen<br>
 
 <h2>Shell Shortcuts</h2>
 <h3>Ctrl Shortcuts</h3>
@@ -24,6 +25,7 @@ Usefull ubuntu commands
 `Ctrl + E` - Move cursor to end of line<br>
 `Ctrl + R` - Reverse history check <i>"mode"</i><br>
 `Ctrl + G` - Return to shell <i>"mode"</i> (preserve anything typed)<br>
+`Ctrl + L` - Clear screen<br>
 
 <h3>Alt Shortcuts</h3>
 
