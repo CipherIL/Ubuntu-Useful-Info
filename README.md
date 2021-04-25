@@ -11,7 +11,7 @@ Usefull ubuntu commands
 `sudo !!` - Execute last command with sudo privileges<br>
 `history` - Show shell history<br>
 `clear` - Clear screen<br>
-`uname` - Show system information<br>
+`uname` - Show system information
 <ul>
   <li>`-a` - show everything</li>
   <li>`-r` - show kernel version</li>
