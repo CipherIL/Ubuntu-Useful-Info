@@ -3,7 +3,7 @@ Info for learning Ubuntu and Linux
 
 # Usefull ubuntu commands
 
-<ins>xdg-open .</ins> Command Open file explorer to current PATH from terminal
+<b><ins>xdg-open .</ins></b> Command Open file explorer to current PATH from terminal
 ### xdg-open "file"
 open file from terminal
 <h3>pwd</h3>Print to terminal current PATH
