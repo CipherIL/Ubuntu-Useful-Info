@@ -13,8 +13,8 @@ Usefull ubuntu commands
 `clear` - Clear screen<br>
 `uname` - Show system information
 <ul>
-  <li>`-a` - show everything</li>
-  <li>`-r` - show kernel version</li>
+  <li> `-a` - show everything</li>
+  <li> `-r` - show kernel version</li>
 </ul> 
 
 <h2>Shell Shortcuts</h2>
