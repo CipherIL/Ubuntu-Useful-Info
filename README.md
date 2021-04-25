@@ -5,13 +5,13 @@ Usefull ubuntu commands
 </h2>
   
 <h3>xdg-open .</h3>Command Open file explorer to current PATH from terminal
-<h4>xdg-open "file"</h4>open file from terminal
-<h4>pwd</h4>Print to terminal current PATH
-<h4>shutdown -h now</h4>Shutdown linux pc
-<h4>sudo !!</h4>Execute last command with sudo privileges
-<h4>history</h4>Show shell history
-<h4>clear</h4>Clear screen
-<h4>uname</h4>Show system information
+<h3>xdg-open "file"</h3>open file from terminal
+<h3>pwd</h3>Print to terminal current PATH
+<h3>shutdown -h now</h3>Shutdown linux pc
+<h3>sudo !!</h3>Execute last command with sudo privileges
+<h3>history</h3>Show shell history
+<h3>clear</h3>Clear screen
+<h3>uname</h3>Show system information
 <ul>
   <li> -a - show everything</li>
   <li> -r - show kernel version</li>
