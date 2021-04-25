@@ -26,7 +26,7 @@ Show system information
   * __-a__ - show everything
   * __-r__ - show kernel version
 
-### <ins>ifconfig</ins>
+### <ins>ifconfig </ins>
 Show ip data
 ### <ins>df -ah</ins>
 show disk usage data
