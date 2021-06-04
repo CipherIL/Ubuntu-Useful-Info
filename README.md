@@ -6,7 +6,10 @@ Info for learning Ubuntu and Linux:
     * [Alt Shortcuts](#alt-shortcuts)
 
 # Usefull ubuntu commands
-
+### <ins>sudo apt-get update</ins>
+Update the package list
+### <ins>sudo apt-get upgrade</ins>
+Upgrade the package list
 ### <ins>xdg-open .</ins>
 Command Open file explorer to current PATH from terminal
 ### <ins>xdg-open "file"</ins>
